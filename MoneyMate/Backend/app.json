@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "3e3f1b89-46b5-49ca-a22b-877f54ed40cf"
+      }
+    },
+    "android": {
+      "package": "com.code_with_tarun.backend"
+    }
+  }
+}
